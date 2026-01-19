@@ -1,1 +1,2 @@
 some text, just getting started with the Odin Project
+another line of text, testing commit message in VS Code
